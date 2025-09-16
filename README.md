@@ -278,7 +278,7 @@ npm run dev -- --port 3001
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made by Argi, Figma and AI**
 
 [![GitHub Stars](https://img.shields.io/github/stars/agik20/finance-tracker-app?style=social)](https://github.com/agik20/finance-tracker-app/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/agik20/finance-tracker-app?style=social)](https://github.com/agik20/finance-tracker-app/network/members)
