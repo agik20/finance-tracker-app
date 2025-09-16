@@ -45,8 +45,8 @@ npm --version
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd finance-tracker
+git clone https://github.com/agik20/finance-tracker-app.git
+cd finance-tracker-app
 ```
 
 ### 2. Install Dependencies
