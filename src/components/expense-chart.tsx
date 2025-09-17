@@ -34,7 +34,7 @@ export function ExpenseChart({ expenseData, monthlyTrend }: ExpenseChartProps) {
   const formatCurrency = (value: number) => {
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
-      currency: 'USD',
+      currency: 'IDR',
       minimumFractionDigits: 0,
       maximumFractionDigits: 0,
     }).format(value);

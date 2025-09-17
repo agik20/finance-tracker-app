@@ -24,7 +24,7 @@ export function FinanceOverview({ stats }: FinanceOverviewProps) {
   const formatCurrency = (amount: number) => {
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
-      currency: 'USD',
+      currency: 'IDR',
     }).format(amount);
   };
 

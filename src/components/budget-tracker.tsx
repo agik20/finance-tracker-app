@@ -40,7 +40,7 @@ export function BudgetTracker({ budgets, categories, transactions, onUpdateBudge
   const formatCurrency = (amount: number) => {
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
-      currency: 'USD',
+      currency: 'IDR',
     }).format(amount);
   };
 
